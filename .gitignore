@@ -215,3 +215,11 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+_framework/_bin/mscorlib\.dll
+
+_framework/_bin/System\.Core\.dll
+
+_framework/_bin/System\.dll
+
+_framework/_bin/System\.Net\.Http\.dll
